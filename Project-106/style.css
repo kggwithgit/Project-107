@@ -1,0 +1,25 @@
+body {
+    font-family: 'League Spartan', sans-serif;
+    background-color: aquamarine;
+}
+
+.header_div {
+    background-color: white;
+    color: orange;
+}
+
+.header_div p {
+    font-family: 'Roboto Slab', serif;
+    color: blue;
+    letter-spacing: 3px;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.main_div button {
+    font-family: 'League Spartan', sans-serif;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
